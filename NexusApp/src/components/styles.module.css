@@ -1,0 +1,15 @@
+.nav {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 50rem;
+}
+
+.nav > div {
+    display: flex;
+    gap: 1rem;
+}
+
+label {
+    cursor: pointer;
+}
